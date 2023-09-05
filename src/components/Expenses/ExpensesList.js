@@ -1,8 +1,6 @@
 import ExpenseItem from "./ExpenseItem";
 import "./ExpensesList.css"; 
 
-
-
 const ExpensesList = props =>{
 
     //redner ExpenseItems or display a message if no expenses are found. 
