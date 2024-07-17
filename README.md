@@ -1,7 +1,9 @@
-# Expense Tracker
+# Project Name: Expense Tracker
+
+## Project Description: 
 A responsive user-friendly expense tracker to help users efficiently manage their finances.
 
-## Key Features
+## Features:
 - A chart that provides a visual representation of stored expenses per month.
 - Allows users to filter expenses by year.              
 - A form where users can create a new expense.
@@ -17,13 +19,3 @@ A responsive user-friendly expense tracker to help users efficiently manage thei
 ## Technologies Used
 - React
 - CSS
-
-## Available Scripts
-In the project directory, you can run:
-
-```npm start```
-
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
-The page will reload when you make changes.
-You may also see any lint errors in the console.
