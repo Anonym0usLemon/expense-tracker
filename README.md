@@ -3,6 +3,10 @@
 ## Project Description: 
 A responsive user-friendly expense tracker to help users efficiently manage their finances.
 
+#### [Live Demo](https://anonym0uslemon.github.io/expense-tracker/)
+
+![Screenshot 2024-07-17 at 6 39 16 PM](https://github.com/user-attachments/assets/39985ee3-ef78-4620-97d7-ba1364d4b50e)
+
 ## Features:
 - A chart that provides a visual representation of stored expenses per month.
 - Allows users to filter expenses by year.              
